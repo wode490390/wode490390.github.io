@@ -1,2 +1,1 @@
-# wode490390.github.io
-wode490390
+# http://git.wode490390.cn/
