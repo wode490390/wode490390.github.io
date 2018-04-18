@@ -1,0 +1,2 @@
+User-agent: *
+Sitemap: http://git.wode490390.cn/sitemap.txt
