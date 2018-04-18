@@ -1,2 +1,3 @@
 User-agent: *
 Sitemap: http://git.wode490390.cn/sitemap.txt
+Sitemap: https://git.wode490390.cn/sitemaps.txt
